@@ -1,6 +1,7 @@
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, I am Ashikur Rahman
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Highly motivated MERN stack developer skilled in HTML, CSS, Tailwind, Bootstrap,DaisyUI,React, Node.js, MongoDB,Firebase,Axios,Tanstack Query,Express, and Next.js. I excel at adapting to new technologies,utilizing my quick learning ability. With unwavering dedication and a strong work ethic, I consistently deliver innovative solutions while staying abreast of emerging trends.
 
@@ -23,9 +24,5 @@ Skills: NEXT REACT / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashik2765/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashik2765)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashik2765)  
-
-
 
