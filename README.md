@@ -4,7 +4,7 @@
 
 Highly motivated MERN stack developer skilled in HTML, CSS, Tailwind, Bootstrap,DaisyUI,React, Node.js, MongoDB,Firebase,Axios,Tanstack Query,Express, and Next.js. I excel at adapting to new technologies,utilizing my quick learning ability. With unwavering dedication and a strong work ethic, I consistently deliver innovative solutions while staying abreast of emerging trends.
 
-Skills: NEXT REACT / JS / HTML / CSS
+Skills: NEXT / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Advance javascript 
